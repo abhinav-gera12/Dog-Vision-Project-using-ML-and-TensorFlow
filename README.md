@@ -7,3 +7,6 @@ The dataset, sourced from Kaggle, initially trained on 1000 dog images using a m
 Subsequently, the model was trained on over 10,000 images. As the test dataset lacked dog breed labels, predicting these labels ensured project effectiveness and consistency.<br>
 
 Finally, additional images were downloaded from the internet to test the model's performance on custom images, yielding an approximate accuracy of 75%, a satisfactory outcome.<br>
+
+![image](https://github.com/abhinav-gera12/Dog-Vision-Project-using-ML-and-TensorFlow/assets/63844738/a06b98f5-7993-42f0-9b74-442848185c3d)
+
